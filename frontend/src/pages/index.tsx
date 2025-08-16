@@ -42,7 +42,7 @@ const Modal: React.FC<ModalProps> = ({ isOpen, onClose, onSubmit, title, childre
 };
 
 export default function Home() {
-  const apiUrl = process.env.NEXT_PUBLIC_API_URL || 'https://user-management-z7j5.onrender.com';
+  const apiUrl = 'https://user-management-z7j5.onrender.com';
   const [users, setUsers] = useState<User[]>([]);
   const [newUser, setNewUser] = useState({ name: '', email: '' });
   const [editUser, setEditUser] = useState<User | null>(null);
