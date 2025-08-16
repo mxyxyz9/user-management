@@ -2,6 +2,24 @@
 
 A modern, minimalistic full-stack user management application with a clean monotone design and CSV export functionality.
 
+## 📸 Screenshots
+
+### Main Dashboard
+![Main Dashboard](images/Screenshot%202025-08-16%20at%206.19.06%20AM.png)
+*Clean, minimalistic interface with user cards and export functionality*
+
+### Add User Modal
+![Add User Modal](images/Screenshot%202025-08-16%20at%206.19.35%20AM.png)
+*Spacious modal form with rounded corners and clean typography*
+
+### User Management
+![User Management](images/Screenshot%202025-08-16%20at%206.19.43%20AM.png)
+*Hover interactions revealing edit and delete options*
+
+### Empty State
+![Empty State](images/Screenshot%202025-08-16%20at%206.19.51%20AM.png)
+*Thoughtful empty state with call-to-action*
+
 ## 🎨 Design Features
 
 - **Monotone Theme**: Clean black and white aesthetic with subtle grays
